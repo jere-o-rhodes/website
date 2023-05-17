@@ -67,7 +67,7 @@ img {
 
 /*hover css*/
 
-.container {
+.contained {
   position: relative;
   width: 50%;
 }
@@ -91,7 +91,7 @@ img {
   background-color: #008CBA;
 }
 
-.container:hover .overlay {
+.contained:hover .overlay {
   opacity: 1;
 }
 
