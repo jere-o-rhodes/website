@@ -78,8 +78,9 @@ img {
 
 .image {
   display: inline-block;
-  width: 100%;
-  height: auto;
+  width: 250px;
+  height: 350px;
+  padding-bottom: 25px;
 }
 
 .overlay {
