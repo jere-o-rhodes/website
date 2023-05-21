@@ -75,6 +75,19 @@ li {
 	font-weight: 300;
 	font-style: normal;
 	margin-bottom: 70px;
+
+}
+
+.my-work-pub-title {
+	font-size: 30px;
+	position: relative;
+	top:30px;
+
+}
+.align-text{
+	text-align: left;
+	position: relative;
+	top:30px;
 }
 
 /*hover css*/
