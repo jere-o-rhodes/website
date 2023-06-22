@@ -23,8 +23,8 @@ h3 {
 
 p {
 	font-size: 20px;
-	font-family: "miller-display", serif;
-	font-weight: 300;
+	font-family: "canada-type-gibson", sans-serif;
+	font-weight: 400;
 	font-style: normal;
 }
 
@@ -143,4 +143,12 @@ li {
 
 .card-title {
 	font-size: 17px;
+}
+
+.link {
+	color: black;
+}
+
+.link:hover {
+	color: #F29F05;
 }
