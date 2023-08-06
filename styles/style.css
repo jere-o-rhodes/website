@@ -35,7 +35,7 @@ p {
 }
 
 body {
-	background-color: #F5E3D2;
+	background-color: #EFCADB;
 }
 
 .my-work {
@@ -105,7 +105,7 @@ li {
   padding-right: 25px;
 }
 
-.overlay {
+/*.overlay {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -116,7 +116,7 @@ li {
   opacity: 0;
   transition: .5s ease;
   background-color: #F5D0E1;
-}
+}*/
 
 .contained:hover .overlay {
   opacity: 1;
